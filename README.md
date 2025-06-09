@@ -36,19 +36,6 @@ Install dependencies:
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate numpy!
 
-## 📸 Screenshots
-
-### Main Arena
-<img width="951" alt="Main Arena" src="https://github.com/user-attachments/assets/ab64f311-d619-453b-a6c6-3e699c24b2a0" />
-
-### Bomb Explosion
-<img width="952" alt="Bomb Explosion" src="https://github.com/user-attachments/assets/d1713561-52ca-40e8-aa51-21fb6307130c" />
-
-### Cheat Mode
-<img width="952" alt="Cheat Mode" src="https://github.com/user-attachments/assets/685f1837-213e-4d82-814f-27664a79a121" />
-
-### Boss Battle
-<img width="953" alt="Boss Mode" src="https://github.com/user-attachments/assets/04614c82-aee3-4f25-a383-ddf8de1bed1f" />
 
 
 
