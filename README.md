@@ -13,7 +13,6 @@ In **Bomb Arena**, you control a brave bomber navigating a circular arena. Lay b
 - Enemies: moving aliens with basic AI
 - Boss fight: multi-phase with fireball attacks
 - Cheat mode for invincibility and fun visuals
-- Smooth camera tracking and dynamic environment changes
 
 ## 🕹 Controls
 
