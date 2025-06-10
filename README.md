@@ -1,4 +1,4 @@
-﻿# Bomb Arena 🧨
+﻿# Bomb Arena 💣 
 
 A 3D Bomberman-style arena game developed in Python using PyOpenGL.
 
@@ -36,7 +36,7 @@ Install dependencies:
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate numpy
 ```
-## Screenshot
+## 📸 Screenshot
 
 ![Screenshot](BossMode.png)
 ![Screenshot](CheatMode.png)
