@@ -36,7 +36,7 @@ Install dependencies:
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate numpy
 ```
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Screenshot](BossMode.png)
 ![Screenshot](CheatMode.png)
