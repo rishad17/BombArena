@@ -37,6 +37,7 @@ pip install PyOpenGL PyOpenGL_accelerate numpy
 ```
 ## 📸 Screenshots
 
+![Screenshot](MainArena.png)
 ![Screenshot](BossMode.png)
 ![Screenshot](CheatMode.png)
-![Screenshot](MainArena.png)
+
